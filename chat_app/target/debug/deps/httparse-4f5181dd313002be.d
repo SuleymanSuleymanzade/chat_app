@@ -1,0 +1,12 @@
+C:\Users\sul_s\Documents\rust_web_projects\chat_app\chat_app\target\debug\deps\httparse-4f5181dd313002be.rmeta: C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+C:\Users\sul_s\Documents\rust_web_projects\chat_app\chat_app\target\debug\deps\libhttparse-4f5181dd313002be.rlib: C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+C:\Users\sul_s\Documents\rust_web_projects\chat_app\chat_app\target\debug\deps\httparse-4f5181dd313002be.d: C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs:

@@ -1,0 +1,11 @@
+C:\Users\sul_s\Documents\rust_web_projects\chat_app\chat_app\target\debug\deps\async_trait-16c5471bb8d2a472.dll: C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\lib.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\args.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\bound.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\expand.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\lifetime.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\parse.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\receiver.rs
+
+C:\Users\sul_s\Documents\rust_web_projects\chat_app\chat_app\target\debug\deps\async_trait-16c5471bb8d2a472.d: C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\lib.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\args.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\bound.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\expand.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\lifetime.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\parse.rs C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\receiver.rs
+
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\lib.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\args.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\bound.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\expand.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\lifetime.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\parse.rs:
+C:\Users\sul_s\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.66\src\receiver.rs:
